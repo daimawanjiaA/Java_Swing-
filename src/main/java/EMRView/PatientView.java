@@ -17,8 +17,8 @@ public class PatientView extends JFrame {
     JButton retBtn = new JButton("返回页面");
     //监听类
     PatientViewHandle patientViewHandle;
-    private int width = 155;
-    private int heigh = 45;
+    private int width = 200;
+    private int heigh = 50;
     private String Pno = null;
 
     public PatientView(String str) {
